@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "56ECE8DC-AEC4-4467-86C8-1F512F7E2C69"
+		"uuidString": "8322633E-E1C5-49D4-85F4-BDCE44A3A820"
 		}
 	],
 "creatorBuild": "25444",
@@ -41,11 +41,11 @@
 		},
 	"\/favicon.png": {
 		"ft": 32768,
-		"iS": 3492,
+		"iS": 3000,
 		"oA": 0,
 		"oAP": "\/favicon.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/footer.php": {
 		"ft": 8192,
@@ -131,11 +131,11 @@
 		},
 	"\/library\/images\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 8039,
+		"iS": 6938,
 		"oA": 0,
 		"oAP": "\/library\/images\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/library\/images\/custom-post-icon.png": {
 		"ft": 32768,
@@ -143,39 +143,39 @@
 		"oA": 0,
 		"oAP": "\/library\/images\/custom-post-icon.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/library\/images\/login-logo.png": {
 		"ft": 32768,
-		"iS": 27712,
+		"iS": 21219,
 		"oA": 0,
 		"oAP": "\/library\/images\/login-logo.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/library\/images\/nothing.gif": {
 		"ft": 4194304,
-		"iS": 1140,
+		"iS": 1132,
 		"oA": 0,
 		"oAP": "\/library\/images\/nothing.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/library\/images\/nothumb.gif": {
 		"ft": 4194304,
-		"iS": 2068,
+		"iS": 1636,
 		"oA": 0,
 		"oAP": "\/library\/images\/nothumb.gif",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/library\/images\/win8-tile-icon.png": {
 		"ft": 32768,
-		"iS": 9326,
+		"iS": 8073,
 		"oA": 0,
 		"oAP": "\/library\/images\/win8-tile-icon.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/library\/js\/libs\/modernizr.custom.min.js": {
 		"ft": 64,
@@ -819,11 +819,11 @@
 		},
 	"\/screenshot.png": {
 		"ft": 32768,
-		"iS": 83266,
+		"iS": 54319,
 		"oA": 0,
 		"oAP": "\/screenshot.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
 		},
 	"\/search.php": {
 		"ft": 8192,
@@ -877,15 +877,14 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 501019729,
+	"creationDate": 501020688,
 	"displayValue": "scatta1-0",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_orange",
-	"lastBuiltDate": 501019893
+	"iconImageName": "brackets_orange"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 0,
+	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
