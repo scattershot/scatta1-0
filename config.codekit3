@@ -94,7 +94,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/library\/css\/admin.css",
 		"oF": 0,
 		"oS": 3
@@ -104,7 +104,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/library\/css\/editor-style.css",
 		"oF": 0,
 		"oS": 3
@@ -114,7 +114,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/library\/css\/ie.css",
 		"oF": 0,
 		"oS": 3
@@ -124,7 +124,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/library\/css\/login.css",
 		"oF": 0,
 		"oS": 3
@@ -134,7 +134,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/library\/css\/style.css",
 		"oF": 0,
 		"oS": 3
@@ -193,40 +193,29 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"\/library\/js\/libs\/modernizr.custom.min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/library\/js\/libs\/modernizr.custom.min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/library\/js\/libs\/modernizr.custom.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/library\/js\/libs\/modernizr.custom.min.css",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/library\/js\/libs\/modernizr.custom.min-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/library\/js\/scripts.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/library\/js\/scripts.css",
+	"\/library\/js\/scripts-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/library\/js\/scripts-min-min.js",
 		"oF": 0,
-		"oS": 3
+		"sC": 1,
+		"tS": 0
 		},
 	"\/library\/js\/scripts.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/library\/js\/scripts.css",
+		"oAP": "\/library\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -878,7 +867,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/style.css",
 		"oF": 0,
 		"oS": 3
@@ -899,7 +888,7 @@
 	"displayValue": "scatta1-0",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
-	"lastBuiltDate": 501056599
+	"lastBuiltDate": 501058603
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2574,7 +2563,7 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -2618,7 +2607,7 @@
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
