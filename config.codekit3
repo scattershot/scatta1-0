@@ -97,7 +97,7 @@
 		"oA": 2,
 		"oAP": "\/library\/css\/admin.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/library\/css\/editor-style.css": {
 		"aP": 0,
@@ -107,7 +107,7 @@
 		"oA": 2,
 		"oAP": "\/library\/css\/editor-style.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/library\/css\/ie.css": {
 		"aP": 0,
@@ -117,7 +117,7 @@
 		"oA": 2,
 		"oAP": "\/library\/css\/ie.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/library\/css\/login.css": {
 		"aP": 0,
@@ -127,7 +127,7 @@
 		"oA": 2,
 		"oAP": "\/library\/css\/login.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/library\/css\/style.css": {
 		"aP": 0,
@@ -137,7 +137,7 @@
 		"oA": 2,
 		"oAP": "\/library\/css\/style.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/library\/custom-post-type.php": {
 		"ft": 8192,
@@ -201,7 +201,7 @@
 		"oA": 2,
 		"oAP": "\/library\/js\/libs\/modernizr.custom.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/library\/js\/libs\/modernizr.custom.min.js": {
 		"ft": 64,
@@ -220,7 +220,7 @@
 		"oA": 2,
 		"oAP": "\/library\/js\/scripts.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/library\/js\/scripts.js": {
 		"ft": 64,
@@ -232,7 +232,7 @@
 		"tS": 0
 		},
 	"\/library\/scss\/admin.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -241,11 +241,11 @@
 		"oA": 0,
 		"oAP": "\/library\/css\/admin.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/breakpoints\/_1030up.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -254,11 +254,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_1030up.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/breakpoints\/_1240up.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -267,11 +267,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_1240up.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/breakpoints\/_2x.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -280,11 +280,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_2x.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/breakpoints\/_481up.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -293,11 +293,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_481up.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/breakpoints\/_768up.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -306,11 +306,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_768up.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/breakpoints\/_base.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -319,7 +319,7 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_base.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/config.rb": {
@@ -329,7 +329,7 @@
 		"oF": 0
 		},
 	"\/library\/scss\/editor-style.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -338,11 +338,11 @@
 		"oA": 0,
 		"oAP": "\/library\/css\/editor-style.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/ie.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -351,11 +351,11 @@
 		"oA": 0,
 		"oAP": "\/library\/css\/ie.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/login.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -364,11 +364,11 @@
 		"oA": 0,
 		"oAP": "\/library\/css\/login.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/modules\/_alerts.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -377,11 +377,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_alerts.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/modules\/_buttons.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -390,11 +390,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_buttons.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/modules\/_forms.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -403,11 +403,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_forms.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_functions.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -416,11 +416,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_functions.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_grid.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -429,11 +429,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_grid.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_ie_grid.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -442,11 +442,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_ie_grid.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_mixins.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -455,11 +455,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_mixins.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_normalize.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -468,11 +468,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_normalize.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_print.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -481,11 +481,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_print.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_typography.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -494,11 +494,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_typography.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/partials\/_variables.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -507,11 +507,11 @@
 		"oA": 1,
 		"oAP": "\/library\/scss\/css\/_variables.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/scss\/style.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -520,7 +520,7 @@
 		"oA": 0,
 		"oAP": "\/library\/css\/style.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/library\/translation\/da_DK.mo": {
@@ -881,7 +881,7 @@
 		"oA": 2,
 		"oAP": "\/style.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/taxonomy-custom_cat.php": {
 		"ft": 8192,
@@ -899,7 +899,7 @@
 	"displayValue": "scatta1-0",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange",
-	"lastBuiltDate": 501022754
+	"lastBuiltDate": 501056599
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2729,8 +2729,8 @@
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
